@@ -18,3 +18,22 @@ body{
     color:rgb(20, 79, 137);
 }
 
+@media (max-width: 768px){
+    body{background-color:rgb(94, 94, 235);}
+}
+
+.grid{
+    display: flex;
+    justify-content: center;
+    /* justify-content: space-around; */
+    gap: 15px;
+    flex-wrap:wrap; 
+}
+
+.grid div{
+    background-color: rgb(91, 91, 222)
+    border-radius: 100px;
+    padding: 10px;
+    min-width: 80px;
+
+}
