@@ -30,10 +30,52 @@ body{
     flex-wrap:wrap; 
 }
 
-.grid div{
-    background-color: rgb(91, 91, 222)
-    border-radius: 100px;
+.grid div {
+    background-color: rgb(96, 96, 188)
     padding: 10px;
     min-width: 80px;
+    border radius: 100%;
+    
 
 }
+
+#skills{
+    border:2px solid black;
+    padding:10px;
+    margin:10px;
+    background-color: pink;
+}
+
+#home{
+    border:2px solid black;
+    padding:10px;
+    margin:10px;
+    background-color: pink;
+}
+
+#interesting{
+    border:2px solid black;
+    padding:10px;
+    margin:10px;
+    background-color: pink;
+}
+
+.grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+    max-width: 700px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+
+
+
+
