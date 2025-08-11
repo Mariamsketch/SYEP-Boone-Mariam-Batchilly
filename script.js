@@ -1,15 +1,15 @@
 const reviews = [
     {
         id: 1,
-        name: 'Susan Smith',
-        job: 'Web Developer',
+        name: 'Franskeska Estevez',
+        job: 'Science teacher',
         img: '#',
-        text: 'Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.', 
+        text: 'Mariam was an outstanding student in my biology class who consistently demonstrated dedication and resposibility. Always thr first to arrive and on time, she set a positive example for her peers. Her respectful behavior and ability to work well with others made her a valued team player. She consistently put forth her best effort, completing all assignments with care and attention. Her work was consistently at an honors level, reflecting her strong academic skills and commitment to excellence. When faced with confusion or challenges, she was proactive in asking questions and seeking support, showing maturity and a genuine desire to learn..', 
     },
     {
         id: 2,
-        name: 'Anna Johnson',
-        job: 'Web Designer',
+        name: 'Violeta Talavera',
+        job: 'Math teacher',
         img: '#',
         text: 'Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.',
     },

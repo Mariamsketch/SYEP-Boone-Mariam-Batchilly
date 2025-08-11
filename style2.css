@@ -172,6 +172,16 @@ main {
  width: 100vw;
  max-width: 900px; /* larger max-width */
  margin: 0 auto;
+ background-color: pink;
+  border:2px solid black;
+    padding: 10px;
+    margin:10px;
+    background-color: pink;
+    font-size: 16px;
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
 }
 .review {
  background: var(--clr-white);
