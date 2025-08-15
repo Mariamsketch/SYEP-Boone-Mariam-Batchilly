@@ -4,22 +4,22 @@ const reviews = [
         name: 'Franskeska Estevez',
         job: 'Science teacher',
         img: '#',
-        text: 'Mariam was an outstanding student in my biology class who consistently demonstrated dedication and resposibility. Always thr first to arrive and on time, she set a positive example for her peers. Her respectful behavior and ability to work well with others made her a valued team player. She consistently put forth her best effort, completing all assignments with care and attention. Her work was consistently at an honors level, reflecting her strong academic skills and commitment to excellence. When faced with confusion or challenges, she was proactive in asking questions and seeking support, showing maturity and a genuine desire to learn..', 
+        text: 'Mariam was an outstanding student in my biology class who consistently demonstrated dedication and resposibility. Always thr first to arrive and on time, she set a positive example for her peers. Her respectful behavior and ability to work well with others made her a valued team player. She consistently put forth her best effort, completing all assignments with care and attention. Her work was consistently at an honors level, reflecting her strong academic skills and commitment to excellence. When faced with confusion or challenges, she was proactive in asking questions and seeking support, showing maturity and a genuine desire to learn.', 
     },
     {
         id: 2,
         name: 'Violeta Talavera',
         job: 'Math teacher',
         img: '#',
-        text: 'Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.',
+        text: 'Mariam has grown ever since I met her. She is good at math always raised her hand and always completed her work in class nad her homework. She was always on time in class and those are the things she is good at. She never acted out and she was one of the best students Ive ever teached.',
     },
     {
         id: 3,
-        name: 'Peter James',
-        job: 'Teacher',
+        name: 'Mariama',
+        job: 'Para',
         img: '#',
-        text: 'Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor.',
-    },
+        text: 'Mariam has grown to be a very selfless resposible caring individual she is goal driven hardworking and a very smart individual. Having her by your side is definitely a bonus. She makes everyone around her feel comfortable, She is good at working as a team and individually and shes a good person overall.',
+    },    
 ];
 
 const img = document.getElementById('person-img');
