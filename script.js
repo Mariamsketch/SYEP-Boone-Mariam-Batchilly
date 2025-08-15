@@ -11,7 +11,7 @@ const reviews = [
         name: 'Violeta Talavera',
         job: 'Math teacher',
         img: '#',
-        text: 'Mariam has grown ever since I met her. She is good at math always raised her hand and always completed her work in class nad her homework. She was always on time in class and those are the things she is good at. She never acted out and she was one of the best students Ive ever teached.',
+        text: 'Mariam has grown ever since I met her. She is good at math always raised her hand and always completed her work in class nad her homework. She was always on time in class and those are the things she is good at. She never acted out and she was one of the best students Ive ever had and teached.',
     },
     {
         id: 3,
